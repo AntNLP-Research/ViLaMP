@@ -14,7 +14,7 @@
 
 ## :gear: Setup
 ```python
-git clone https://github.com/AntNLP-Research/ViLaMP.git
+git clone https://github.com/AntResearchNLP/ViLaMP.git
 cd ViLaMP
 ```
 
