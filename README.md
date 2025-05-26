@@ -1,4 +1,4 @@
-<h3 align="center"> <a href="https://arxiv.org/abs/2504.02438">ViLAMP: Scaling Video-Language Models to 10K Frames via Hierarchical Differential Distillation</a></h3>
+<h3 align="center"> <a href="https://arxiv.org/abs/2504.02438">ViLaMP: Scaling Video-Language Models to 10K Frames via Hierarchical Differential Distillation</a></h3>
 
 <h5 align="center"> If our project helps you, please give us a star ⭐ and cite our <a href="#citation">paper</a>
 <h5 align="center">
