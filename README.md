@@ -14,8 +14,8 @@
 
 ## :gear: Setup
 ```python
-git clone https://github.com/steven-ccq/ViLAMP.git
-cd ViLAMP
+git clone https://github.com/AntNLP-Research/ViLaMP.git
+cd ViLaMP
 ```
 
 ### Environment
@@ -24,7 +24,7 @@ cd ViLAMP
 pip install -r requirements.txt
 ```
 
-### Install ViLAMP
+### Install ViLaMP
 
 Please install 🤗[ViLAMP-llava-qwen](https://huggingface.co/orange-sk/ViLAMP-llava-qwen) and place it into `models/`
 
